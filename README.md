@@ -22,9 +22,13 @@ This repository contains three independent data analysis and machine learning pr
 This repository contains three independent data science projects, each exploring a different aspect of the COVID-19 pandemic using publicly available datasets. The projects showcase a complete data science workflow including:
 
 ✅ Data Cleaning & Missing Value Treatment
+
 ✅ Feature Engineering & Extraction
+
 ✅ Exploratory Data Analysis
+
 ✅ Predictive Modeling
+
 ✅ Model Evaluation & Validation
 
 🌍 Project 1: Global COVID-19 Snapshot Analysis
@@ -110,10 +114,15 @@ The Gradient Boosting model achieved strong predictive performance, revealing th
 🛠️ Technologies Used
 
 Technology	Purpose
+
 Python	Core programming language
+
 Pandas & NumPy	Data manipulation and numerical operations
+
 Matplotlib & Seaborn	Data visualization and exploratory analysis
+
 Scikit-learn	Preprocessing, model training, and evaluation
+
 Category Encoders	Advanced categorical encoding techniques
 
 🎯 Skills Demonstrated
